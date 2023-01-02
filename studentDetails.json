@@ -1,0 +1,33 @@
+{
+        "Collage Name":"Vaishali Institute of Business and Rural Management" ,
+        "Course":"BCA",
+        "Students":[
+            {
+                "Name":"Ranveer Kumar",
+                "Roll":"01C2020",
+                "Fee status":"paid"
+            },
+            {
+                "Name":"Rohan Kumar",
+                "Roll":"01C2020",
+                "Fee status":"paid"
+            },
+            {
+                "Name":"Sohan Kumar",
+                "Roll":"03C2020",
+                "Fee status":"paid"
+            },
+            {
+                "Name":"Deepa Kumari",
+                "Roll":"04C2020",
+                "Fee status":"not paid"
+            },
+            {
+                "Name":"Rina Kumari",
+                "Roll":"05C2020",
+                "Fee status":"paid"
+            }
+        ]
+
+
+}
